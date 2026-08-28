@@ -24,6 +24,7 @@ backend_api/venv_sign/
 *.wav
 .vscode/
 .idea/
+.claude/
 desktop.ini
 **/debug.keys
 **/.xcode.env
