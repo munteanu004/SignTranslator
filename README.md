@@ -26,7 +26,9 @@ The project includes a recorded demonstration of the application workflow:
 
 The demo video is stored as `demo.mp4` in the repository root. For the best GitHub presentation, keep the video short and show the main user journey: sign recognition, text-to-sign conversion, and the resulting translation.
 
-![SignTranslator demo preview](docs/demo-preview.gif)
+<p align="center">
+  <img src="docs/demo-preview.gif" alt="SignTranslator demo preview" width="360">
+</p>
 
 The animated preview above is included directly in this README because GitHub does not reliably play MP4 files inline from a repository file page.
 
