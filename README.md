@@ -20,11 +20,7 @@ The project is designed to make communication more accessible by translating sig
 
 ## Demo
 
-The project includes a recorded demonstration of the application workflow:
-
-**[Watch the demo video on GitHub](https://github.com/munteanu004/SignTranslator/blob/main/demo.mp4)**
-
-The demo video is stored as `demo.mp4` in the repository root. For the best GitHub presentation, keep the video short and show the main user journey: sign recognition, text-to-sign conversion, and the resulting translation.
+The project includes a recorded demonstration of the application workflow. The preview below shows the main user journey: sign recognition, text-to-sign conversion, and the resulting translation.
 
 <p align="center">
   <img src="docs/demo-preview.gif" alt="SignTranslator demo preview" width="360">
