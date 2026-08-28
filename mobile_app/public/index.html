@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>LSR SignTranslator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- Google Identity Services for Sign In with Google -->
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <!-- MediaPipe Holistic for sign language keypoint extraction -->
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/holistic/holistic.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            background-color: #1a1025;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100dvh;
+        }
+
+        #root {
+            max-width: 430px;
+            width: 100%;
+            height: 100dvh;
+            max-height: 932px;
+            overflow: hidden;
+            position: relative;
+            border-radius: 40px;
+            box-shadow:
+                0 0 0 12px #1a1a2e,
+                0 0 0 14px #333,
+                0 25px 60px rgba(0, 0, 0, 0.6);
+            background-color: #F8F7FF;
+        }
+
+        /* Notch simulation */
+        #root::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 150px;
+            height: 30px;
+            background-color: #000;
+            border-radius: 0 0 20px 20px;
+            z-index: 9999;
+        }
+
+        /* Force React Native Web root div to fill #root height */
+        #root > div {
+            height: 100% !important;
+            display: flex !important;
+            flex-direction: column !important;
+        }
+
+        /* On actual mobile devices, remove the phone frame */
+        @media (max-width: 430px) {
+            body {
+                background-color: #F8F7FF;
+            }
+
+            #root {
+                border-radius: 0;
+                box-shadow: none;
+                max-height: 100dvh;
+            }
+
+            #root::before {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="root"></div>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+</body>
+
+</html>

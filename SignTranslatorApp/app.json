@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "SignTranslatorApp",
+    "slug": "signtranslatorapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.signtranslatorapp"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

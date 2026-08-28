@@ -1,0 +1,2277 @@
+{
+  "- patru": {
+    "english": "-QUATRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-QUATRE.pkl"
+  },
+  "-cincisprezece": {
+    "english": "-QUINZE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-QUINZE.pkl"
+  },
+  "-douăzeci": {
+    "english": "-VINGT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-VINGT.pkl"
+  },
+  "-nouăzeci": {
+    "english": "-QUATREVINGTDIX",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-QUATREVINGTDIX.pkl"
+  },
+  "-o": {
+    "english": "-UN",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-UN.pkl"
+  },
+  "-optzeci": {
+    "english": "-QUATREVINGT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-QUATREVINGT.pkl"
+  },
+  "-paisprezece": {
+    "english": "-QUATORZE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-QUATORZE.pkl"
+  },
+  "-patruzeci": {
+    "english": "-QUARANTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-QUARANTE.pkl"
+  },
+  "-trei": {
+    "english": "-TROIS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-TROIS.pkl"
+  },
+  "-treisprezece": {
+    "english": "-TREIZE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-TREIZE.pkl"
+  },
+  "-treizeci": {
+    "english": "-TRENTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-TRENTE.pkl"
+  },
+  "-zero": {
+    "english": "-ZERO",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-ZERO.pkl"
+  },
+  "-şaisprezece": {
+    "english": "-SEIZE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-SEIZE.pkl"
+  },
+  "-şaizeci": {
+    "english": "-SOIXANTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-SOIXANTE.pkl"
+  },
+  "-şaptezeci": {
+    "english": "-SOIXANTEDIX",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-SOIXANTEDIX.pkl"
+  },
+  "-şase": {
+    "english": "-SIX",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-SIX.pkl"
+  },
+  "-șapte": {
+    "english": "-SEPT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-SEPT.pkl"
+  },
+  "a": {
+    "english": "a",
+    "french": "un",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ACCEPTER.pkl"
+  },
+  "a atinge": {
+    "english": "TOUCHER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOUCHER.pkl"
+  },
+  "a cara": {
+    "english": "PORTER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PORTER.pkl"
+  },
+  "a dorea": {
+    "english": "VOULOIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOULOIR.pkl"
+  },
+  "a ofer": {
+    "english": "OFFRIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\OFFRIR.pkl"
+  },
+  "a pleca": {
+    "english": "LAISSER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\LAISSER.pkl"
+  },
+  "a schimb": {
+    "english": "ECHANGER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ECHANGER.pkl"
+  },
+  "a simti": {
+    "english": "RESSENTIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RESSENTIR.pkl"
+  },
+  "a studia": {
+    "english": "ETUDIER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ETUDIER.pkl"
+  },
+  "a tusi": {
+    "english": "TOUSSER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOUSSER.pkl"
+  },
+  "a vopsea": {
+    "english": "PEINDRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PEINDRE.pkl"
+  },
+  "a ști": {
+    "english": "CONNAITRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\CONNAITRE_.pkl"
+  },
+  "aburi": {
+    "english": "VAPEUR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VAPEUR.pkl"
+  },
+  "ac": {
+    "english": "AIGUILLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\AIGUILLE.pkl"
+  },
+  "accepta": {
+    "english": "ACCEPTER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ACCEPTER.pkl"
+  },
+  "acel + precis": {
+    "english": "PAREIL + PRECIS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAREIL_+_PRECIS.pkl"
+  },
+  "acoperiş": {
+    "english": "TOIT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOIT.pkl"
+  },
+  "acum": {
+    "english_translation": "now",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\10818.pkl",
+    "sign_id": "10818",
+    "source": "HamNoSys"
+  },
+  "adesea": {
+    "english": "SOUVENT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SOUVENT_.pkl"
+  },
+  "adevarat": {
+    "english": "true",
+    "french": "vrai",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VRAI_.pkl"
+  },
+  "adevăr": {
+    "english": "VERITE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VERITE.pkl"
+  },
+  "adevărat": {
+    "english": "VRAI",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VRAI_.pkl"
+  },
+  "adâncime": {
+    "english": "PROFONDEUR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROFONDEUR.pkl"
+  },
+  "aer": {
+    "english": "air",
+    "french": "air",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FAIRE_UN_PAS.pkl"
+  },
+  "ai": {
+    "english": "you",
+    "french": "toi",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ETOILE.pkl"
+  },
+  "aici": {
+    "english": "ICI",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ICI.pkl"
+  },
+  "alb": {
+    "english_translation": "white",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\3193.pkl",
+    "sign_id": "3193",
+    "source": "HamNoSys"
+  },
+  "alcool": {
+    "english": "ALCOOL",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ALCOOL.pkl"
+  },
+  "alegeri": {
+    "english": "ELECTION",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ELECTION.pkl"
+  },
+  "alerga": {
+    "english_translation": "run",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RUBAN.pkl",
+    "sign_id": "RUBAN",
+    "source": "HamNoSys"
+  },
+  "amar": {
+    "english": "AMERE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\AMERE.pkl"
+  },
+  "ambalaj": {
+    "english": "PAQUET",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAQUET.pkl"
+  },
+  "amiaza": {
+    "english": "noon",
+    "french": "midi",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\APRES_MIDI_.pkl"
+  },
+  "amâna": {
+    "english": "REPORTER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\REPORTER.pkl"
+  },
+  "animal": {
+    "english_translation": "animal",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\wlasl_pkls_cropFalse_defult_shape\\wlasl_pkls_cropFalse_defult_shape\\02581.pkl",
+    "source": "WLASL",
+    "video_id": "02581"
+  },
+  "apa": {
+    "english": "water",
+    "french": "eau",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PEAU.pkl"
+  },
+  "apel": {
+    "english": "TELEPHONER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TELEPHONER_.pkl"
+  },
+  "aprinde": {
+    "english": "LEGER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\LEGER.pkl"
+  },
+  "aproape": {
+    "english": "PRES",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRES.pkl"
+  },
+  "apăsaţi": {
+    "english": "POUSSER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POUSSER.pkl"
+  },
+  "are": {
+    "english": "has",
+    "french": "a",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ACCEPTER.pkl"
+  },
+  "aruncam": {
+    "english": "take",
+    "french": "prendre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRENDRE.pkl"
+  },
+  "asculta": {
+    "english": "ECOUTER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ECOUTER.pkl"
+  },
+  "ating": {
+    "english": "touch",
+    "french": "touche",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOUCHER.pkl"
+  },
+  "autobuz": {
+    "english": "bus",
+    "french": "bus",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ROBUSTE.pkl"
+  },
+  "avem": {
+    "english": "have",
+    "french": "avoir",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\AVOIR_SOIF.pkl"
+  },
+  "avion": {
+    "english_translation": "airplane",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\wlasl_pkls_cropFalse_defult_shape\\wlasl_pkls_cropFalse_defult_shape\\01721.pkl",
+    "source": "WLASL",
+    "video_id": "01721"
+  },
+  "batran": {
+    "english": "old",
+    "french": "vieux",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VIEUX.pkl"
+  },
+  "bicicleta": {
+    "english": "VELO",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VELO_.pkl"
+  },
+  "bine": {
+    "english_translation": "good",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\52602.pkl",
+    "sign_id": "52602",
+    "source": "HamNoSys"
+  },
+  "biserică": {
+    "english": "EGLISE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\EGLISE.pkl"
+  },
+  "blocare": {
+    "english": "SERRURE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SERRURE.pkl"
+  },
+  "bogat": {
+    "english": "RICHE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RICHE.pkl"
+  },
+  "bolnav": {
+    "english_translation": "sick",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\91376.pkl",
+    "sign_id": "91376",
+    "source": "HamNoSys"
+  },
+  "branza": {
+    "english_translation": "cheese",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\2626.pkl",
+    "sign_id": "2626",
+    "source": "HamNoSys"
+  },
+  "brusc": {
+    "english": "SOUDAINEMENT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SOUDAINEMENT.pkl"
+  },
+  "brânză": {
+    "english": "FROMAGE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FROMAGE.pkl"
+  },
+  "bucată": {
+    "english": "PIECE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PIECE_.pkl"
+  },
+  "bucătare + lista": {
+    "english": "CUISINE + LISTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\CUISINE_+_LISTE.pkl"
+  },
+  "caine": {
+    "english_translation": "dog",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\12499.pkl",
+    "sign_id": "12499",
+    "source": "HamNoSys"
+  },
+  "cal": {
+    "english_translation": "horse",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\9835.pkl",
+    "sign_id": "9835",
+    "source": "HamNoSys"
+  },
+  "cameră": {
+    "english": "SALLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SALLE.pkl"
+  },
+  "cand": {
+    "english_translation": "when",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\3153.pkl",
+    "sign_id": "3153",
+    "source": "HamNoSys"
+  },
+  "carne": {
+    "english": "VIANDE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VIANDE.pkl"
+  },
+  "carte": {
+    "english": "LIVRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\LIVRE_.pkl"
+  },
+  "carti": {
+    "english": "book",
+    "french": "livre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\LIVRE_.pkl"
+  },
+  "cartier": {
+    "english": "VOISINAGE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOISINAGE.pkl"
+  },
+  "cartof": {
+    "english": "POMME DE TERRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POMME_DE_TERRE.pkl"
+  },
+  "caz": {
+    "english": "ETUI",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ETUI.pkl"
+  },
+  "ce": {
+    "english": "QUOI",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\QUOI.pkl"
+  },
+  "ceai": {
+    "english": "THE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\THEATRE.pkl"
+  },
+  "ceaşcă": {
+    "english": "TASSE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TASSE.pkl"
+  },
+  "chioşc": {
+    "english": "KIOSQUE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\KIOSQUE.pkl"
+  },
+  "companie": {
+    "english": "SOCIETE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SOCIETE.pkl"
+  },
+  "confortabil": {
+    "english": "CONFORTABLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\CONFORTABLE.pkl"
+  },
+  "constientirea": {
+    "english": "CONNAISSANCE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\CONNAISSANCE.pkl"
+  },
+  "copie": {
+    "english": "COPIE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\COPIE.pkl"
+  },
+  "copil": {
+    "english_translation": "child",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\6392.pkl",
+    "sign_id": "6392",
+    "source": "HamNoSys"
+  },
+  "corect": {
+    "english": "A DROITE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\A_DROITE.pkl"
+  },
+  "cort": {
+    "english": "TENTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TENTE.pkl"
+  },
+  "cotitură": {
+    "english": "TOURNANT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOURNANT.pkl"
+  },
+  "covor": {
+    "english": "TAPIS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TAPIS.pkl"
+  },
+  "credeti": {
+    "english": "think",
+    "french": "pense",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PENSER.pkl"
+  },
+  "culoare": {
+    "english": "COULEUR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\COULEUR.pkl"
+  },
+  "cunoaște": {
+    "english": "SAVOIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAVOIR.pkl"
+  },
+  "câine": {
+    "english_translation": "dog",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\12499.pkl",
+    "sign_id": "12499",
+    "source": "HamNoSys"
+  },
+  "când": {
+    "english": "QUAND",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\QUAND.pkl"
+  },
+  "cănătarire": {
+    "english": "PESER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PESER.pkl"
+  },
+  "dacă": {
+    "english": "SI",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SI.pkl"
+  },
+  "dam": {
+    "english": "give",
+    "french": "donner",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARDONNER.pkl"
+  },
+  "de": {
+    "english": "of",
+    "french": "de",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\AU_DESSOUS.pkl"
+  },
+  "de ce": {
+    "english_translation": "why",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\9131.pkl",
+    "sign_id": "9131",
+    "source": "HamNoSys"
+  },
+  "de mai jos": {
+    "english": "AU DESSOUS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\AU_DESSOUS.pkl"
+  },
+  "de utilizare": {
+    "english": "UTILISER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\UTILISER.pkl"
+  },
+  "deplin": {
+    "english": "PLEIN",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PLEIN.pkl"
+  },
+  "despre": {
+    "english_translation": "about",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\wlasl_pkls_cropFalse_defult_shape\\wlasl_pkls_cropFalse_defult_shape\\00412.pkl",
+    "source": "WLASL",
+    "video_id": "00412"
+  },
+  "dimensiune": {
+    "english": "TAILLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TAILLE.pkl"
+  },
+  "disfucare": {
+    "english": "PROFITER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROFITER.pkl"
+  },
+  "doar": {
+    "english": "JUSTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\JUSTE.pkl"
+  },
+  "dovedi": {
+    "english": "PROUVER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROUVER.pkl"
+  },
+  "dreapta": {
+    "english_translation": "right",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\2593.pkl",
+    "sign_id": "2593",
+    "source": "HamNoSys"
+  },
+  "drept înainte": {
+    "english": "TOUT DROIT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOUT_DROIT_.pkl"
+  },
+  "drum": {
+    "english": "ROUTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ROUTE_.pkl"
+  },
+  "dubla": {
+    "english": "DOUBLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\DOUBLE.pkl"
+  },
+  "dupa": {
+    "english_translation": "after",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\wlasl_pkls_cropFalse_defult_shape\\wlasl_pkls_cropFalse_defult_shape\\01411.pkl",
+    "source": "WLASL",
+    "video_id": "01411"
+  },
+  "după": {
+    "english": "APRES",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\APRES.pkl"
+  },
+  "după amiază": {
+    "english": "APRES MIDI",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\APRES_MIDI_.pkl"
+  },
+  "durere": {
+    "english": "pain",
+    "french": "douleur",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAIN.pkl"
+  },
+  "dă drumul": {
+    "english": "LACHER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\LACHER.pkl"
+  },
+  "ea": {
+    "english": "it",
+    "french": "il",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\AIGUILLE.pkl"
+  },
+  "ei": {
+    "english": "SON",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SON.pkl"
+  },
+  "el": {
+    "english": "he",
+    "french": "il",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\AIGUILLE.pkl"
+  },
+  "electric": {
+    "english": "ELECTRIQUE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ELECTRIQUE.pkl"
+  },
+  "elev": {
+    "english": "ELEVE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ELEVE.pkl"
+  },
+  "emisiune": {
+    "english": "PROBLEME",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROBLEME.pkl"
+  },
+  "era": {
+    "english": "era",
+    "french": "ère",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\EXETERA.pkl"
+  },
+  "eroare": {
+    "english": "ERREUR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ERREUR.pkl"
+  },
+  "est": {
+    "english": "east",
+    "french": "est",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\QUESTION.pkl"
+  },
+  "eu": {
+    "english": "i",
+    "french": "je",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\AIGUILLE.pkl"
+  },
+  "exetera": {
+    "english": "EXETERA",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\EXETERA.pkl"
+  },
+  "fabrică": {
+    "english": "USINE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\USINE_.pkl"
+  },
+  "face": {
+    "english_translation": "do",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\pjm_414.pkl",
+    "sign_id": "pjm_414",
+    "source": "HamNoSys"
+  },
+  "face o bai": {
+    "english": "PRENDRE UN BAIN",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRENDRE_UN_BAIN.pkl"
+  },
+  "faceti": {
+    "english": "make",
+    "french": "faire",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FAIRE_UN_PAS.pkl"
+  },
+  "faceți un pas": {
+    "english": "FAIRE UN PAS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FAIRE_UN_PAS.pkl"
+  },
+  "faci": {
+    "english": "make",
+    "french": "faire",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FAIRE_UN_PAS.pkl"
+  },
+  "farmacie": {
+    "english": "PHARMACIE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PHARMACIE.pkl"
+  },
+  "faţă": {
+    "english": "VISAGE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VISAGE.pkl"
+  },
+  "fi": {
+    "english": "be",
+    "french": "être",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\DEROBER.pkl"
+  },
+  "fi impresionat": {
+    "english": "ETRE IMPRESSIONNE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ETRE_IMPRESSIONNE.pkl"
+  },
+  "fi sete": {
+    "english": "AVOIR SOIF",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\AVOIR_SOIF.pkl"
+  },
+  "fiu": {
+    "english": "son",
+    "french": "fils",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SON.pkl"
+  },
+  "fix": {
+    "english": "REPARER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\REPARER.pkl"
+  },
+  "fişier": {
+    "english": "FILE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FILE.pkl"
+  },
+  "fluent": {
+    "english": "COURANT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\COURANT.pkl"
+  },
+  "foarte": {
+    "english": "TRES",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TRES.pkl"
+  },
+  "foc": {
+    "english": "fire",
+    "french": "feu",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FEUILLE.pkl"
+  },
+  "franţa": {
+    "english": "FRANCE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FRANCE_.pkl"
+  },
+  "frate": {
+    "english": "FRERE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FRERE.pkl"
+  },
+  "frica": {
+    "english": "fear",
+    "french": "peur",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PEUR.pkl"
+  },
+  "frică": {
+    "english": "PEUR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PEUR.pkl"
+  },
+  "frig": {
+    "english_translation": "cold",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\9747.pkl",
+    "sign_id": "9747",
+    "source": "HamNoSys"
+  },
+  "friptură": {
+    "english": "STEAK",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\STEAK.pkl"
+  },
+  "frontiere": {
+    "english": "FRONTIERES",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FRONTIERES.pkl"
+  },
+  "fructe": {
+    "english": "FRUIT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FRUIT.pkl"
+  },
+  "frunze": {
+    "english": "FEUILLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FEUILLE.pkl"
+  },
+  "fumat": {
+    "english": "FUMER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FUMER.pkl"
+  },
+  "funky": {
+    "english": "FROUSSARD",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FROUSSARD.pkl"
+  },
+  "fura": {
+    "english": "DEROBER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\DEROBER.pkl"
+  },
+  "furculiţă": {
+    "english": "FOURCHETTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FOURCHETTE.pkl"
+  },
+  "fără": {
+    "english": "SANS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SANS.pkl"
+  },
+  "gandesti": {
+    "english": "think",
+    "french": "pense",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PENSER.pkl"
+  },
+  "gandi": {
+    "english": "think",
+    "french": "pense",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PENSER.pkl"
+  },
+  "gandim": {
+    "english": "think",
+    "french": "pense",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PENSER.pkl"
+  },
+  "geant de umăr": {
+    "english": "SAC SUR L EPAULE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAC_SUR_L_EPAULE_.pkl"
+  },
+  "gol": {
+    "english": "VIDE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VIDE.pkl"
+  },
+  "greutate": {
+    "english": "POIDS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POIDS.pkl"
+  },
+  "gustos": {
+    "english": "SAVOUREUX",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAVOUREUX.pkl"
+  },
+  "gândește": {
+    "english": "PENSER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PENSER.pkl"
+  },
+  "gândiți-vă la qqch": {
+    "english": "PENSER A QQCH",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PENSER_A_QQCH.pkl"
+  },
+  "găsi": {
+    "english": "TROUVER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TROUVER.pkl"
+  },
+  "haine": {
+    "english": "VETEMENTS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VETEMENTS.pkl"
+  },
+  "home": {
+    "english": "man",
+    "french": "homme",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PERFORMANCE.pkl"
+  },
+  "hârtie": {
+    "english": "PAPIER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAPIER.pkl"
+  },
+  "ia": {
+    "english": "PRENDRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRENDRE.pkl"
+  },
+  "idee": {
+    "english": "IDEE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\IDEE.pkl"
+  },
+  "ierta": {
+    "english": "PARDONNER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARDONNER.pkl"
+  },
+  "ieșire": {
+    "english": "SORTIE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SORTIE.pkl"
+  },
+  "imparte": {
+    "english": "DIVISER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\DIVISER.pkl"
+  },
+  "impinge": {
+    "english": "push",
+    "french": "pousser",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POUSSER.pkl"
+  },
+  "impingem": {
+    "english": "push",
+    "french": "pousser",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POUSSER.pkl"
+  },
+  "impingeti": {
+    "english": "push",
+    "french": "pousser",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POUSSER.pkl"
+  },
+  "impingi": {
+    "english": "push",
+    "french": "pousser",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POUSSER.pkl"
+  },
+  "inauntru": {
+    "english": "in",
+    "french": "dans",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\CUISINE_+_LISTE.pkl"
+  },
+  "insulă": {
+    "english": "ILE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ILE.pkl"
+  },
+  "inteles": {
+    "english": "meaning",
+    "french": "signification",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SIGNIFICATION.pkl"
+  },
+  "intrebare": {
+    "english": "question",
+    "french": "question",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\QUESTION.pkl"
+  },
+  "iubi": {
+    "english_translation": "love",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\49799.pkl",
+    "sign_id": "49799",
+    "source": "HamNoSys"
+  },
+  "jos": {
+    "english": "BAS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\BAS.pkl"
+  },
+  "lac": {
+    "english": "LAC",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\LAC.pkl"
+  },
+  "larga": {
+    "english": "LARGE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\LARGE.pkl"
+  },
+  "lei": {
+    "english": "lei",
+    "french": "lei",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PLEIN.pkl"
+  },
+  "literatură": {
+    "english": "LITTERATURE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\LITTERATURE.pkl"
+  },
+  "loc": {
+    "english": "PLACE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PLACE.pkl"
+  },
+  "lovit": {
+    "english": "FRAPPE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FRAPPE.pkl"
+  },
+  "luam": {
+    "english": "take",
+    "french": "prendre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRENDRE.pkl"
+  },
+  "luati": {
+    "english": "take",
+    "french": "prendre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRENDRE.pkl"
+  },
+  "lucru": {
+    "english": "TRAVAIL",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TRAVAIL.pkl"
+  },
+  "mama": {
+    "english": "parent",
+    "french": "mère",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARENTS.pkl"
+  },
+  "mananc": {
+    "english": "eat",
+    "french": "manger",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\THEATRE.pkl"
+  },
+  "mananci": {
+    "english": "eat",
+    "french": "manger",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\THEATRE.pkl"
+  },
+  "mancat": {
+    "english": "eat",
+    "french": "manger",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\THEATRE.pkl"
+  },
+  "mancati": {
+    "english": "eat",
+    "french": "manger",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\THEATRE.pkl"
+  },
+  "mar": {
+    "english_translation": "apple",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\wlasl_pkls_cropFalse_defult_shape\\wlasl_pkls_cropFalse_defult_shape\\02997.pkl",
+    "source": "WLASL",
+    "video_id": "02997"
+  },
+  "martie + soldat": {
+    "english": "MARCHE + SOLDAT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\MARCHE_+_SOLDAT.pkl"
+  },
+  "masina": {
+    "english": "car",
+    "french": "voiture",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOITURE_.pkl"
+  },
+  "mașină": {
+    "english": "VOITURE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOITURE_.pkl"
+  },
+  "mers": {
+    "english": "walking",
+    "french": "marche",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\MARCHE_+_SOLDAT.pkl"
+  },
+  "mic": {
+    "english": "small",
+    "french": "petit",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PETIT.pkl"
+  },
+  "milă": {
+    "english": "PITIE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PITIE.pkl"
+  },
+  "motiv": {
+    "english": "RAISON",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RAISON.pkl"
+  },
+  "munca": {
+    "english": "work",
+    "french": "travail",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TRAVAIL.pkl"
+  },
+  "murdar": {
+    "english": "SALE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SALE.pkl"
+  },
+  "măr": {
+    "english": "POMME",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POMME.pkl"
+  },
+  "mătuşă": {
+    "english": "TANTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TANTE.pkl"
+  },
+  "necunoscut": {
+    "english": "INCONNU",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\INCONNU_.pkl"
+  },
+  "noi": {
+    "english": "us",
+    "french": "nous",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\AU_DESSOUS.pkl"
+  },
+  "nu": {
+    "english_translation": "no",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\17886.pkl",
+    "sign_id": "17886",
+    "source": "HamNoSys"
+  },
+  "o persoana": {
+    "english": "UNE PERSONNE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\UNE_PERSONNE.pkl"
+  },
+  "oameni": {
+    "english": "GENS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\GENS.pkl"
+  },
+  "obiecţie": {
+    "english": "OBJECTION",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\OBJECTION.pkl"
+  },
+  "ochi": {
+    "english_translation": "eye",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\2261.pkl",
+    "sign_id": "2261",
+    "source": "HamNoSys"
+  },
+  "om": {
+    "english_translation": "person",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\4304.pkl",
+    "sign_id": "4304",
+    "source": "HamNoSys"
+  },
+  "oms": {
+    "english": "QUI",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\QUI.pkl"
+  },
+  "opri": {
+    "english_translation": "stop",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\pjm_158.pkl",
+    "sign_id": "pjm_158",
+    "source": "HamNoSys"
+  },
+  "oras": {
+    "english": "city",
+    "french": "ville",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VILLE_.pkl"
+  },
+  "oraş": {
+    "english": "VILLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VILLE_.pkl"
+  },
+  "orez": {
+    "english": "RIZ",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RIZ.pkl"
+  },
+  "otravă": {
+    "english": "POISON",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POISON.pkl"
+  },
+  "pace": {
+    "english": "PAIX",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAIX.pkl"
+  },
+  "pagină": {
+    "english": "PAGE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAGE.pkl"
+  },
+  "paine": {
+    "english": "bread",
+    "french": "pain",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAIN.pkl"
+  },
+  "palmier": {
+    "english": "PAUME",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAUME.pkl"
+  },
+  "pamant": {
+    "english": "earth",
+    "french": "terre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TERRE.pkl"
+  },
+  "panglică": {
+    "english": "RUBAN",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RUBAN.pkl"
+  },
+  "pantaloni": {
+    "english": "PANTALON",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PANTALON.pkl"
+  },
+  "parinti": {
+    "english": "parents",
+    "french": "parents",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARENTS.pkl"
+  },
+  "paris": {
+    "english": "PARIS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARIS_.pkl"
+  },
+  "pară": {
+    "english": "POIRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POIRE.pkl"
+  },
+  "pasa": {
+    "english": "PASSE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PASSE.pkl"
+  },
+  "pat": {
+    "english": "LIT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\LIT.pkl"
+  },
+  "patiserie": {
+    "english": "PATISSERIE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PATISSERIE.pkl"
+  },
+  "patru": {
+    "english": "four",
+    "french": "quatre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FOURCHETTE.pkl"
+  },
+  "pauză": {
+    "english": "PAUSE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAUSE.pkl"
+  },
+  "pe": {
+    "english_translation": "on",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\2253.pkl",
+    "sign_id": "2253",
+    "source": "HamNoSys"
+  },
+  "pe jos": {
+    "english": "A PIED",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\A_PIED.pkl"
+  },
+  "pe sus": {
+    "english": "SUR LE DESSUS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SUR_LE_DESSUS.pkl"
+  },
+  "pentru": {
+    "english_translation": "for",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\13724.pkl",
+    "sign_id": "13724",
+    "source": "HamNoSys"
+  },
+  "pentru ce": {
+    "english": "POURQUOI",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POURQUOI.pkl"
+  },
+  "performanţă": {
+    "english": "PERFORMANCE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PERFORMANCE.pkl"
+  },
+  "persoana": {
+    "english": "person",
+    "french": "personne",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PERSONNE_+_REUSSIR.pkl"
+  },
+  "persoana + vizita": {
+    "english": "PERSONNE + VISITE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PERSONNE_+_VISITE.pkl"
+  },
+  "persoană + călătorie": {
+    "english": "PERSONNE + VOYAGE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PERSONNE_+_VOYAGE.pkl"
+  },
+  "persoană + muncă": {
+    "english": "PERSONNE + TRAVAIL",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PERSONNE_+_TRAVAIL.pkl"
+  },
+  "persoană + reusit": {
+    "english": "PERSONNE + REUSSIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PERSONNE_+_REUSSIR.pkl"
+  },
+  "peste": {
+    "english_translation": "over",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\57916.pkl",
+    "sign_id": "57916",
+    "source": "HamNoSys"
+  },
+  "peşte": {
+    "english": "POISSON",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POISSON.pkl"
+  },
+  "pește": {
+    "english_translation": "fish",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\2460.pkl",
+    "sign_id": "2460",
+    "source": "HamNoSys"
+  },
+  "picioare": {
+    "english": "foot",
+    "french": "pied",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PIED.pkl"
+  },
+  "picior": {
+    "english": "PIED",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PIED.pkl"
+  },
+  "piele": {
+    "english": "PEAU",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PEAU.pkl"
+  },
+  "pieptene": {
+    "english": "PEIGNE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PEIGNE.pkl"
+  },
+  "pierde": {
+    "english": "PERDRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PERDRE.pkl"
+  },
+  "piper": {
+    "english": "POIVRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POIVRE.pkl"
+  },
+  "pisica": {
+    "english": "cat",
+    "french": "chat",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SIGNIFICATION.pkl"
+  },
+  "pistă": {
+    "english": "FUSIL",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FUSIL.pkl"
+  },
+  "place": {
+    "english_translation": "like",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\18566.pkl",
+    "sign_id": "18566",
+    "source": "HamNoSys"
+  },
+  "planta": {
+    "english": "PLANTER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PLANTER.pkl"
+  },
+  "plastic": {
+    "english": "PLASTIQUE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PLASTIQUE.pkl"
+  },
+  "plată": {
+    "english": "PAYER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAYER.pkl"
+  },
+  "ploaie": {
+    "english": "PLUIE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PLUIE.pkl"
+  },
+  "plângere": {
+    "english": "PLAINDRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PLAINDRE.pkl"
+  },
+  "pod": {
+    "english": "PONT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PONT.pkl"
+  },
+  "podea": {
+    "english": "ETAGE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ETAGE.pkl"
+  },
+  "politicos": {
+    "english": "POLI",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POLI.pkl"
+  },
+  "poliţie": {
+    "english": "POLICE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POLICE.pkl"
+  },
+  "port": {
+    "english": "PORT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PORT.pkl"
+  },
+  "pot": {
+    "english": "can",
+    "french": "peut",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VACANCES.pkl"
+  },
+  "pradă": {
+    "english": "PROIE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROIE_.pkl"
+  },
+  "praf": {
+    "english": "POUSSIERE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POUSSIERE.pkl"
+  },
+  "prenumele": {
+    "english": "PRENOM",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRENOM.pkl"
+  },
+  "preot": {
+    "english": "PRETRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRETRE.pkl"
+  },
+  "pretutindeni": {
+    "english": "PARTOUT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARTOUT.pkl"
+  },
+  "prevenire": {
+    "english": "PREVENIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PREVENIR.pkl"
+  },
+  "preşedinte": {
+    "english": "PRESIDENT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRESIDENT.pkl"
+  },
+  "primul": {
+    "english": "PREMIER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PREMIER.pkl"
+  },
+  "primăvară": {
+    "english": "PRINTEMPS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRINTEMPS_.pkl"
+  },
+  "prin": {
+    "english": "by",
+    "french": "par",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARAPLUIE.pkl"
+  },
+  "privat": {
+    "english": "PRIVE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRIVE.pkl"
+  },
+  "produs": {
+    "english": "PRODUIT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRODUIT.pkl"
+  },
+  "profesor": {
+    "english": "PROFESSEUR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROFESSEUR.pkl"
+  },
+  "program": {
+    "english": "PROGRAMME",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROGRAMME.pkl"
+  },
+  "promisiune": {
+    "english": "PROMETTRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROMETTRE.pkl"
+  },
+  "proprietar": {
+    "english": "PROPRIETAIRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROPRIETAIRE.pkl"
+  },
+  "proprii": {
+    "english": "PROPRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROPRE.pkl"
+  },
+  "prosop": {
+    "english": "SERVIETTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SERVIETTE.pkl"
+  },
+  "prost": {
+    "english": "STUPIDE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\STUPIDE.pkl"
+  },
+  "proteja": {
+    "english": "PROTEGER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROTEGER.pkl"
+  },
+  "public": {
+    "english": "PUBLIQUE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PUBLIQUE.pkl"
+  },
+  "pui": {
+    "english": "POULE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POULE.pkl"
+  },
+  "pun": {
+    "english": "put",
+    "french": "mettre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROMETTRE.pkl"
+  },
+  "pune": {
+    "english": "put",
+    "french": "mettre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROMETTRE.pkl"
+  },
+  "puneti": {
+    "english": "place",
+    "french": "lieu",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PLACE.pkl"
+  },
+  "purtam": {
+    "english": "wear",
+    "french": "porter",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PORTER.pkl"
+  },
+  "pus": {
+    "english": "put",
+    "french": "mettre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PROMETTRE.pkl"
+  },
+  "putem": {
+    "english": "can",
+    "french": "peut",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VACANCES.pkl"
+  },
+  "putin": {
+    "english": "little",
+    "french": "petit",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PETIT.pkl"
+  },
+  "puţin": {
+    "english": "PEU",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PEU.pkl"
+  },
+  "pâine": {
+    "english": "PAIN",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAIN.pkl"
+  },
+  "pământ": {
+    "english": "TERRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TERRE.pkl"
+  },
+  "părinţi": {
+    "english": "PARENTS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARENTS.pkl"
+  },
+  "radiator": {
+    "english": "RADIATEUR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RADIATEUR.pkl"
+  },
+  "raft": {
+    "english": "ETAGERE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ETAGERE.pkl"
+  },
+  "raport meteo": {
+    "english": "METEO",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\METEO.pkl"
+  },
+  "rar": {
+    "english": "RARE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RARE.pkl"
+  },
+  "rece": {
+    "english": "FROID",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FROID.pkl"
+  },
+  "regiune": {
+    "english": "REGION",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\REGION_.pkl"
+  },
+  "regret": {
+    "english": "REGRETTER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\REGRETTER.pkl"
+  },
+  "relaţie": {
+    "english": "RELATION",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RELATION.pkl"
+  },
+  "repede": {
+    "english": "VITE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VITE.pkl"
+  },
+  "responsabil": {
+    "english": "RESPONSABLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RESPONSABLE.pkl"
+  },
+  "reveni": {
+    "english": "RETOURNER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RETOURNER.pkl"
+  },
+  "rezistenţă": {
+    "english": "FORCE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FORCE.pkl"
+  },
+  "rezultate": {
+    "english": "RESULTATS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RESULTATS.pkl"
+  },
+  "robust": {
+    "english": "ROBUSTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ROBUSTE.pkl"
+  },
+  "rochie": {
+    "english": "ROBE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ROBE.pkl"
+  },
+  "rosu": {
+    "english": "red",
+    "french": "rouge",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ROUGE.pkl"
+  },
+  "roşu": {
+    "english": "ROUGE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ROUGE.pkl"
+  },
+  "roșie": {
+    "english": "TOMATE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOMATE.pkl"
+  },
+  "rucsac": {
+    "english": "SAC A DOS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAC_A_DOS_.pkl"
+  },
+  "rugați-vă": {
+    "english": "PRIER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRIER.pkl"
+  },
+  "rundă": {
+    "english": "ROND",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ROND.pkl"
+  },
+  "râu": {
+    "english": "RIVIERE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RIVIERE.pkl"
+  },
+  "răbdare": {
+    "english": "PATIENCE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PATIENCE.pkl"
+  },
+  "rădăcină": {
+    "english": "RACINE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RACINE.pkl"
+  },
+  "rănire": {
+    "english": "BLESSURE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\BLESSURE.pkl"
+  },
+  "răspuns": {
+    "english": "REPONDRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\REPONDRE_.pkl"
+  },
+  "sa scrie": {
+    "english": "ECRIRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ECRIRE.pkl"
+  },
+  "sac": {
+    "english": "SAC",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAC_.pkl"
+  },
+  "sacou": {
+    "english": "VESTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VESTE.pkl"
+  },
+  "salariu": {
+    "english": "SALAIRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SALAIRE.pkl"
+  },
+  "salată": {
+    "english": "SALADE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SALADE.pkl"
+  },
+  "salva": {
+    "english": "SAUVER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAUVER.pkl"
+  },
+  "santient": {
+    "english": "SCIENTIFIQUE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SCIENTIFIQUE.pkl"
+  },
+  "saptamana": {
+    "english": "week",
+    "french": "semaine",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SEMAINE_.pkl"
+  },
+  "sapte": {
+    "english": "seven",
+    "french": "sept",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-SEPT.pkl"
+  },
+  "sarac": {
+    "english": "poor",
+    "french": "pauvre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAUVRE.pkl"
+  },
+  "sare": {
+    "english": "SEL",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SEL.pkl"
+  },
+  "sase": {
+    "english": "six",
+    "french": "six",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-SIX.pkl"
+  },
+  "sat": {
+    "english": "VILLAGE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VILLAGE_.pkl"
+  },
+  "sau + străine": {
+    "english": "OU + ETRANGER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\OU_+_ETRANGER.pkl"
+  },
+  "scară": {
+    "english": "ECHELLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ECHELLE.pkl"
+  },
+  "sceur": {
+    "english": "SCEUR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SCEUR.pkl"
+  },
+  "scop": {
+    "english": "BUT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\BUT.pkl"
+  },
+  "scrisoare": {
+    "english": "LETTRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\LETTRE.pkl"
+  },
+  "scrisoare alfabet": {
+    "english": "LETTRE alphabet",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\LETTRE_ALPHABET.pkl"
+  },
+  "scump": {
+    "english": "expensive",
+    "french": "cher",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\LACHER.pkl"
+  },
+  "seară": {
+    "english": "SOIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SOIR_.pkl"
+  },
+  "secol": {
+    "english": "SIECLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SIECLE.pkl"
+  },
+  "semn": {
+    "english": "SIGNE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SIGNE.pkl"
+  },
+  "semnal": {
+    "english": "SIGNAL",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SIGNAL.pkl"
+  },
+  "sens": {
+    "english": "SIGNIFICATION",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SIGNIFICATION.pkl"
+  },
+  "servi": {
+    "english": "SERVIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SERVIR.pkl"
+  },
+  "servici": {
+    "english": "work",
+    "french": "travail",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TRAVAIL.pkl"
+  },
+  "sete": {
+    "english": "thirst",
+    "french": "soif",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\AVOIR_SOIF.pkl"
+  },
+  "sezon": {
+    "english": "SAISON",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAISON.pkl"
+  },
+  "sfarsit": {
+    "english": "ending",
+    "french": "fin",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FIN.pkl"
+  },
+  "sfârşit": {
+    "english": "FIN",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FIN.pkl"
+  },
+  "share": {
+    "english": "PARTAGER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARTAGER.pkl"
+  },
+  "sharp": {
+    "english": "POINTU",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POINTU.pkl"
+  },
+  "similar": {
+    "english": "SIMILAIRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SIMILAIRE.pkl"
+  },
+  "simplu": {
+    "english": "SIMPLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SIMPLE.pkl"
+  },
+  "simte": {
+    "english": "SENTIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SENTIR.pkl"
+  },
+  "simti": {
+    "english": "feel",
+    "french": "sentir",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SENTIR.pkl"
+  },
+  "singur": {
+    "english": "SEUL",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SEUL.pkl"
+  },
+  "soare": {
+    "english": "SOLEIL",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SOLEIL.pkl"
+  },
+  "soba": {
+    "english": "POELE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\POELE.pkl"
+  },
+  "sol": {
+    "english": "SOL",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SOL.pkl"
+  },
+  "soldat": {
+    "english": "SOLDAT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SOLDAT.pkl"
+  },
+  "soneria": {
+    "english": "SONNETTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SONNETTE.pkl"
+  },
+  "sos": {
+    "english": "SAUCE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAUCE.pkl"
+  },
+  "special": {
+    "english": "SPECIAL",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SPECIAL.pkl"
+  },
+  "spectator": {
+    "english": "SPECTATEUR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SPECTATEUR.pkl"
+  },
+  "sportul": {
+    "english": "SPORT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SPORT_.pkl"
+  },
+  "spune": {
+    "english": "RACONTER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RACONTER.pkl"
+  },
+  "sta": {
+    "english": "S ASSEOIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\S_ASSEOIR.pkl"
+  },
+  "stat": {
+    "english": "ETAT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ETAT.pkl"
+  },
+  "stea": {
+    "english": "ETOILE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ETOILE.pkl"
+  },
+  "stick": {
+    "english": "PIQUER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PIQUER.pkl"
+  },
+  "sticlă": {
+    "english": "VERRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VERRE.pkl"
+  },
+  "stiti": {
+    "english": "know",
+    "french": "savoir",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAVOIR.pkl"
+  },
+  "stiut": {
+    "english": "know",
+    "french": "savoir",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAVOIR.pkl"
+  },
+  "strict": {
+    "english": "STRICT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\STRICT.pkl"
+  },
+  "struguri": {
+    "english": "GRAIN DE RAISIN",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\GRAIN_DE_RAISIN.pkl"
+  },
+  "strălucire": {
+    "english": "BRILLER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\BRILLER.pkl"
+  },
+  "student": {
+    "english": "ETUDIANT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ETUDIANT.pkl"
+  },
+  "stâncă": {
+    "english": "PIERRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PIERRE.pkl"
+  },
+  "sub": {
+    "english_translation": "under",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\15383.pkl",
+    "sign_id": "15383",
+    "source": "HamNoSys"
+  },
+  "sud": {
+    "english": "SUD",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SUD.pkl"
+  },
+  "suferi": {
+    "english": "SOUFFRIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SOUFFRIR.pkl"
+  },
+  "suflet": {
+    "english": "AME",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\AME.pkl"
+  },
+  "suparat": {
+    "english_translation": "angry",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\wlasl_pkls_cropFalse_defult_shape\\wlasl_pkls_cropFalse_defult_shape\\02564.pkl",
+    "source": "WLASL",
+    "video_id": "02564"
+  },
+  "supă": {
+    "english": "SOUPE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SOUPE.pkl"
+  },
+  "supărat": {
+    "english_translation": "angry",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\wlasl_pkls_cropFalse_defult_shape\\wlasl_pkls_cropFalse_defult_shape\\02564.pkl",
+    "source": "WLASL",
+    "video_id": "02564"
+  },
+  "suspect": {
+    "english": "SUSPECT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SUSPECT.pkl"
+  },
+  "sâmbătă": {
+    "english": "SAMEDI",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAMEDI_.pkl"
+  },
+  "sânge": {
+    "english": "SANG",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SANG.pkl"
+  },
+  "sălbatic": {
+    "english": "SAUVAGE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAUVAGE.pkl"
+  },
+  "sănătate": {
+    "english": "SANTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SANTE.pkl"
+  },
+  "săptămână": {
+    "english": "SEMAINE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SEMAINE_.pkl"
+  },
+  "săpun": {
+    "english": "SAVON",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAVON.pkl"
+  },
+  "sărac": {
+    "english": "PAUVRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAUVRE.pkl"
+  },
+  "tatăl": {
+    "english": "PERE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PERE.pkl"
+  },
+  "taxi": {
+    "english": "TAXI",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TAXI.pkl"
+  },
+  "teama": {
+    "english": "fear",
+    "french": "peur",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PEUR.pkl"
+  },
+  "teatru": {
+    "english": "THEATRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\THEATRE.pkl"
+  },
+  "telefon": {
+    "english_translation": "phone",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\3071.pkl",
+    "sign_id": "3071",
+    "source": "HamNoSys"
+  },
+  "telefon mobil": {
+    "english": "TELEPHONE PORTABLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TELEPHONE_PORTABLE_.pkl"
+  },
+  "temporar": {
+    "english": "TEMPORAIRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TEMPORAIRE.pkl"
+  },
+  "temă": {
+    "english": "THEME",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\THEME.pkl"
+  },
+  "testură": {
+    "english": "TISSU",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TISSU.pkl"
+  },
+  "text": {
+    "english": "TEXTE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TEXTE.pkl"
+  },
+  "tii": {
+    "english": "know",
+    "french": "savoir",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SAVOIR.pkl"
+  },
+  "timp": {
+    "english": "TEMPS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TEMPS.pkl"
+  },
+  "tin": {
+    "english": "keep",
+    "french": "garder",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\REGARDER.pkl"
+  },
+  "tine": {
+    "english": "you",
+    "french": "toi",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ETOILE.pkl"
+  },
+  "tinem": {
+    "english": "keep",
+    "french": "garder",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\REGARDER.pkl"
+  },
+  "tineti": {
+    "english": "keep",
+    "french": "garder",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\REGARDER.pkl"
+  },
+  "tip": {
+    "english": "TAPER A LA MACHINE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TAPER_A_LA_MACHINE.pkl"
+  },
+  "toate": {
+    "english": "TOUT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOUT.pkl"
+  },
+  "transpira": {
+    "english": "SUER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SUER.pkl"
+  },
+  "trebui": {
+    "english": "be",
+    "french": "être",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\DEROBER.pkl"
+  },
+  "trei": {
+    "english": "three",
+    "french": "trois",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\_NUM-TROIS.pkl"
+  },
+  "tren": {
+    "english": "TRAIN",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TRAIN_.pkl"
+  },
+  "tricota": {
+    "english": "TRICOTER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TRICOTER.pkl"
+  },
+  "trimestru": {
+    "english": "QUART",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\QUART_.pkl"
+  },
+  "trăi": {
+    "english": "VIVRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VIVRE_.pkl"
+  },
+  "tu": {
+    "english": "VOUS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\S_IL_VOUS_PLAIT_.pkl"
+  },
+  "tub": {
+    "english": "TUBE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TUBE.pkl"
+  },
+  "tăcere": {
+    "english": "SILENCE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SILENCE.pkl"
+  },
+  "uite": {
+    "english": "REGARDER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\REGARDER.pkl"
+  },
+  "ulei": {
+    "english": "PETROLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PETROLE.pkl"
+  },
+  "umbrelă": {
+    "english": "PARAPLUIE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARAPLUIE.pkl"
+  },
+  "umple": {
+    "english": "REMPLIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\REMPLIR.pkl"
+  },
+  "undeva": {
+    "english": "QUELQUE PART",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\QUELQUE_PART.pkl"
+  },
+  "uneori": {
+    "english": "PARFOIS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARFOIS.pkl"
+  },
+  "unu": {
+    "english": "one",
+    "french": "un",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FAIRE_UN_PAS.pkl"
+  },
+  "urmează": {
+    "english": "SUIVRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SUIVRE.pkl"
+  },
+  "uscat": {
+    "english": "SEC",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SEC.pkl"
+  },
+  "util": {
+    "english": "UTILE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\UTILE.pkl"
+  },
+  "vacanţă": {
+    "english": "VACANCES",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VACANCES.pkl"
+  },
+  "vacă": {
+    "english": "VACHE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VACHE.pkl"
+  },
+  "vand": {
+    "english": "sell",
+    "french": "vendre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VENDRE.pkl"
+  },
+  "vandut": {
+    "english": "sold",
+    "french": "vendu",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\MARCHE_+_SOLDAT.pkl"
+  },
+  "vant": {
+    "english": "wind",
+    "french": "vent",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VENT.pkl"
+  },
+  "varsta": {
+    "english_translation": "age",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\wlasl_pkls_cropFalse_defult_shape\\wlasl_pkls_cropFalse_defult_shape\\01482.pkl",
+    "source": "WLASL",
+    "video_id": "01482"
+  },
+  "vară": {
+    "english": "ETE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ETE_.pkl"
+  },
+  "vazut": {
+    "english": "seen",
+    "french": "vu",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VUE.pkl"
+  },
+  "vechi": {
+    "english": "VIEUX",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VIEUX.pkl"
+  },
+  "vecin": {
+    "english": "VOISIN",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOISIN.pkl"
+  },
+  "vede": {
+    "english": "sees",
+    "french": "voit",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOITURE_.pkl"
+  },
+  "vedea": {
+    "english": "VOIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOIR.pkl"
+  },
+  "vedere": {
+    "english": "VUE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VUE.pkl"
+  },
+  "veni": {
+    "english": "VENIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VENIR.pkl"
+  },
+  "verde": {
+    "english": "VERT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VERT.pkl"
+  },
+  "viaţă": {
+    "english": "VIE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VIE.pkl"
+  },
+  "viitor": {
+    "english": "FUTUR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\FUTUR.pkl"
+  },
+  "vilă": {
+    "english": "VILLA",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VILLAGE_.pkl"
+  },
+  "vin": {
+    "english": "VIN",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VIN.pkl"
+  },
+  "vinde": {
+    "english": "VENDRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VENDRE.pkl"
+  },
+  "vindeca": {
+    "english": "GUERIR",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\GUERIR_.pkl"
+  },
+  "vindem": {
+    "english": "sell",
+    "french": "vendre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VENDRE.pkl"
+  },
+  "vindeti": {
+    "english": "sell",
+    "french": "vendre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VENDRE.pkl"
+  },
+  "vineri": {
+    "english": "VENDREDI",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VENDREDI_.pkl"
+  },
+  "vinzi": {
+    "english": "sell",
+    "french": "vendre",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VENDRE.pkl"
+  },
+  "violenţă": {
+    "english": "VIOLENCE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VIOLENCE.pkl"
+  },
+  "vis": {
+    "english": "REVE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\REVE.pkl"
+  },
+  "voce": {
+    "english": "VOIX",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOIX.pkl"
+  },
+  "voi": {
+    "english": "vol",
+    "french": "vol",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOLANT.pkl"
+  },
+  "vorbeste": {
+    "english": "speak",
+    "french": "parler",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARLER.pkl"
+  },
+  "vorbi": {
+    "english": "PARLER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARLER.pkl"
+  },
+  "vorbim": {
+    "english": "talk",
+    "french": "parler",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARLER.pkl"
+  },
+  "vorbiti": {
+    "english": "talk",
+    "french": "parler",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PARLER.pkl"
+  },
+  "vot": {
+    "english": "VOTER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOTER.pkl"
+  },
+  "vrem": {
+    "english": "want",
+    "french": "vouloir",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOULOIR.pkl"
+  },
+  "vreti": {
+    "english": "are",
+    "french": "sont",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAREIL_+_PRECIS.pkl"
+  },
+  "vânt": {
+    "english": "VENT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VENT.pkl"
+  },
+  "vârstă": {
+    "english_translation": "age",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\wlasl_pkls_cropFalse_defult_shape\\wlasl_pkls_cropFalse_defult_shape\\01482.pkl",
+    "source": "WLASL",
+    "video_id": "01482"
+  },
+  "vă rog": {
+    "english": "S IL VOUS PLAIT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\S_IL_VOUS_PLAIT_.pkl"
+  },
+  "zahăr": {
+    "english": "SUCRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SUCRE.pkl"
+  },
+  "zbor": {
+    "english": "VOLANT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOLANT.pkl"
+  },
+  "zbura": {
+    "english": "VOLER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VOLER.pkl"
+  },
+  "zece": {
+    "english": "ten",
+    "french": "dix",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TENTE.pkl"
+  },
+  "zero": {
+    "english_translation": "zero",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\85160.pkl",
+    "sign_id": "85160",
+    "source": "HamNoSys"
+  },
+  "zi": {
+    "english": "day",
+    "french": "jour",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOUJOURS.pkl"
+  },
+  "zile": {
+    "english": "days",
+    "french": "jours",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOUJOURS.pkl"
+  },
+  "zâmbet": {
+    "english": "SOURIRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SOURIRE.pkl"
+  },
+  "împrumuta": {
+    "english": "PRETER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PRETER.pkl"
+  },
+  "în": {
+    "english_translation": "in",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\6909.pkl",
+    "sign_id": "6909",
+    "source": "HamNoSys"
+  },
+  "în cazul": {
+    "english": "PENDANT QUE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PENDANT_QUE.pkl"
+  },
+  "în fiecare zi": {
+    "english": "TOUS LES JOURS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOUS_LES_JOURS_.pkl"
+  },
+  "în regulă": {
+    "english": "D ACCORD",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\D_ACCORD_.pkl"
+  },
+  "în viaţă": {
+    "english": "VIVANT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VIVANT.pkl"
+  },
+  "îngust": {
+    "english": "ETROIT",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ETROIT.pkl"
+  },
+  "întorcă": {
+    "english": "TOURNER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOURNER.pkl"
+  },
+  "întotdeauna": {
+    "english": "TOUJOURS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\TOUJOURS.pkl"
+  },
+  "întrebare": {
+    "english": "QUESTION",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\QUESTION.pkl"
+  },
+  "întreg": {
+    "english": "ENTIER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ENTIER.pkl"
+  },
+  "întuneric": {
+    "english": "SOMBRE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\SOMBRE.pkl"
+  },
+  "întâlnește": {
+    "english": "RENCONTRER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RENCONTRER.pkl"
+  },
+  "întârziere": {
+    "english": "RETARD",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RETARD.pkl"
+  },
+  "şcoală": {
+    "english": "ECOLE",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\ECOLE.pkl"
+  },
+  "şedere": {
+    "english": "RESTER",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RESTER.pkl"
+  },
+  "şurub": {
+    "english": "VIS",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\VIS.pkl"
+  },
+  "ține minte": {
+    "english": "RAPPELER A",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\RAPPELER_A.pkl"
+  },
+  "țărannic": {
+    "english": "PAYSAN",
+    "pkl_file": "C:\\Users\\user\\Desktop\\OneDrive\\Documents\\SignTranslator\\hamnosys_pkls_default_shape\\hamnosys_pkls_default_shape\\PAYSAN.pkl"
+  }
+}
