@@ -363,13 +363,9 @@ Before deploying it publicly:
 
 Recognition quality depends on lighting, camera position, signing speed, visible hands, dataset coverage, and the selected model. The available vocabulary and translation rules are limited by the included datasets and dictionaries. This project should be treated as an assistive prototype and not as a replacement for a qualified sign language interpreter.
 
-## Academic Context
+## Project Context
 
-SignTranslator was developed as an academic software and machine learning project focused on accessibility, computer vision, natural language processing, and cross-platform application development.
-
-Suggested CV description:
-
-> Built a full-stack sign language translation platform using React Native, Flask, PyTorch, MediaPipe, OpenCV, Whisper, and SQLite. Implemented real-time sign recognition, text-to-sign animation, speech-to-text input, JWT authentication, translation history, dictionary search, and gamified learning features.
+SignTranslator is an academic software and machine learning project focused on accessibility, computer vision, natural language processing, and cross-platform application development.
 
 ## Contributing
 
